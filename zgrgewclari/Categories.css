@@ -1,0 +1,47 @@
+*{
+    background-color: powderblue;
+    font-family: cursive;
+}
+.titleDiv{
+    display: flex;
+    justify-content: center;
+}
+#headButton1{
+    background-color: rgba(56, 255, 189, 0.544);
+    margin-left: 20px;
+    padding: 30px;
+    margin-bottom: 50px;
+    border-radius: 5px;
+    border: 2px solid black;
+}
+#headButton2{
+    background-color: rgba(56, 255, 189, 0.544);
+    margin-left: 20px;
+    padding: 30px;
+    margin-bottom: 50px;
+    border-radius: 5px;
+    border: 2px solid black;
+}
+#headButton3{
+    background-color: rgba(56, 255, 189, 0.544);
+    margin-left: 20px;
+    padding: 30px;
+    margin-bottom: 50px;
+    border-radius: 5px;
+    border: 2px solid black;
+}
+#head{
+    display: flex;
+    justify-content: space-evenly;
+    padding: 20px;
+}
+.homeButton{
+    background-color: rgba(56, 255, 189, 0.544);
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+    margin-left: 650px;
+    margin-right: 650px;
+    border: 3px solid black;
+    border-radius: 10px;
+}
