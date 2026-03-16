@@ -1,0 +1,39 @@
+*{
+    background-color: powderblue;
+    font-family: cursive;
+}
+.titleDiv{
+    display: flex;
+    justify-content: center;
+}
+.button{
+    margin-left: 480px;
+    padding: 40px 80px;
+    font-size: 50px;
+    color: rgb(6, 6, 152);
+    background-color: rgba(56, 255, 189, 0.544);
+    border: 2px solid black;
+    border-radius: 8px;
+}
+#disclaimerBox{
+    display: flex;
+    justify-content: center;
+    font-size: x-large;
+    color: red;
+    margin-left: 380px;
+    margin-right: 380px;
+}
+.Instructions{
+    display: flex;
+    justify-content: space-evenly;
+    padding: 10px;
+    background-color: rgba(56, 255, 189, 0.544);
+    border: 3px  solid black;
+    border-radius: 15px;
+    margin-left: 380px;
+    margin-right: 380px;
+}
+.txt{
+    background-color: rgba(56, 255, 189, 0.544);
+    color: black
+}
